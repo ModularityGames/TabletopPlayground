@@ -8,5 +8,7 @@ Build new rule sets for traditional games, play custom-made games by the communi
 
 ## Get in touch
 Our homepage https://tabletop-playground.com/
+
 IndieDB profile http://www.indiedb.com/games/tabletop-playground
+
 Email contact@tabletop-playground.com
